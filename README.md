@@ -1,17 +1,20 @@
 # mentoriaJessica
 Projeto teste em Cypress
 
-# npx cypress open para 
-# test nome do script 
-# npx roda node
-# Cypress framework
-# open para rodar o test
+- Instalar o node
+- instalar o cypress
 
-Rodar:
+- colocar no script "npx cypress open" para: 
+    - test nome do script 
+    - npx roda node
+    - Cypress framework
+    - open para rodar o test
+# Criar uma pasta dento da pasta
+# Para instalar o cypress:
 npm init
-# --save-dev para tirar as bibliotecas de desenvolvimento
+- --save-dev para tirar as bibliotecas de desenvolvimento
 npm i cypress --save-dev
 type package.json
     Deve ter o cypress
-# Para rodar o teste
+# Para rodar o teste:
 npm run test
